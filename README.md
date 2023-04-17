@@ -1,4 +1,4 @@
-# Neural Network to reduce image noise using Python(Keras)
+# Denoising images 
 ### Result
 ![software](img/1.JPG)
 ### Libraries
