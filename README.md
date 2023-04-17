@@ -1,4 +1,4 @@
-# Denoising images 
+# Denoising images using Neural Networks
 ### Result
 ![software](img/1.JPG)
 ### Libraries
